@@ -1,0 +1,3 @@
+C:/Users/ivana/CLionProjects/githublab/cmake-build-debug/CMakeFiles/githublab.dir
+C:/Users/ivana/CLionProjects/githublab/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ivana/CLionProjects/githublab/cmake-build-debug/CMakeFiles/rebuild_cache.dir
